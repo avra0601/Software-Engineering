@@ -23,17 +23,8 @@ the customers are more, then it is difficult for the software team to redesign t
 for one state may not be used in other state because the rules and environment change. We should consider all this inherent difficulties in mind before developing software.</p>
 
 <h3>ANSWER 2  -  ACCIDENTAL DIFFICULTIES</h3>
-
-<p>According to Brooks </p>
-
->“Accidental Difficulties are those difficulties that today attend its production but are not inherent”.
-
-<p>
-According to him these difficulties account for only smaller part may be 20% of the difficulties. Some people understood this definition in a different way. Some people thought that accidental difficulties are difficulties that occur by chance. But actually brook meant accidental difficulties as that, </p>
-
->“the use technique A for benefit B unfortunately introduced problem C into the process of software development” (According to the lecture).
-
-<p>We can understand that some new tools or techniques that were produced to solve some problem actually introduce some other new problem. But these problems account only for 20%. He also says that a single technique could not increase the order of magnitude. It could be achieved only by combining multiple techniques and industry wide enforcement and discipline.Let us consider an example of introducing a new framework for development. The new framework would actually have advantages and can be faster but unfortunately the new framework itself can have some problems introduced into our system. May the new framework will not support windows XP but we would have used this for long time. </p>
+<p>According to Brooks “Accidental Difficulties are those difficulties that today attend its production but are not inherent”.
+According to him these difficulties account for only smaller part may be 20% of the difficulties. Some people understood this definition in a different way. Some people thought that accidental difficulties are difficulties that occur by chance. But actually brook meant accidental difficulties as that,“the use technique A for benefit B unfortunately introduced problem C into the process of software development” (According to the lecture).We can understand that some new tools or techniques that were produced to solve some problem actually introduce some other new problem. But these problems account only for 20%. He also says that a single technique could not increase the order of magnitude. It could be achieved only by combining multiple techniques and industry wide enforcement and discipline.Let us consider an example of introducing a new framework for development. The new framework would actually have advantages and can be faster but unfortunately the new framework itself can have some problems introduced into our system. May the new framework will not support windows XP but we would have used this for long time. </p>
 
 <h3>ANSWER 3 - TYPES OF ESSENTIAL DIFFICULTIES</h3>
 <p>
@@ -52,3 +43,8 @@ Customers request for may changes to the software developers because their requi
 
 - **Invisibility**
 When the requirement is given, it is very difficult to imagine the outcome of the software by the software developer. It is important that software developer should understand the problem. There are some UML diagrams which will help the software developer to visualize  the software. There are mainly 13 different types of diagrams used. Even though we have all these diagrams, it is still difficult for the developer to visualize the software. It is very difficult to state the problems using these diagrams but some kind of visualization is given by these diagrams. For example let us consider an software for a restaurant. First we must gather all requirements from customer and we must try to visualize the outcome of the software. Generally before coding, the software team first design all these diagrams and try to visualize the software.. It is very important because if the software developer does not understand the problem properly then the resultant software will be completely different from that of customer needs.
+
+<h3>ANSWER 4 - WHY NO SILVER BULLET?</h3>
+<p>Brook defines silver bullet as “A single technique or technology that by itself can deliver one order-of magnitude improvement to some aspect of software development” (Lecture). From the definition we can understand that silver bullet is a something that can improve the software system atleast by one order of magnitude. Even a small improvement is considered to be huge. He feels that there is no single technology that can improve the productivity of the software system. According to him there is no magical cure for the problems faced during manufacturing a software product. That is why he says that there is no silver bullet. </p>
+
+
