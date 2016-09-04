@@ -1,1 +1,4 @@
-<h2 style="text-align: center">HOMEWORK 1</h2>
+
+.align_right { display: block ; text-align: right ; }
+<span class="right_align">qvin
+</span>
