@@ -32,4 +32,22 @@ According to him these difficulties account for only smaller part may be 20% of 
 
 >“the use technique A for benefit B unfortunately introduced problem C into the process of software development” (According to the lecture).
 
-<p>We can understand that some new tools or techniques that were produced to solve some problem actually introduce some other new problem. But these problems account only for 20%. He also says that a single technique could not increase the order of magnitude. It could be achieved only by combining multiple techniques and industry wide enforcement and discipline. </p>
+<p>We can understand that some new tools or techniques that were produced to solve some problem actually introduce some other new problem. But these problems account only for 20%. He also says that a single technique could not increase the order of magnitude. It could be achieved only by combining multiple techniques and industry wide enforcement and discipline.Let us consider an example of introducing a new framework for development. The new framework would actually have advantages and can be faster but unfortunately the new framework itself can have some problems introduced into our system. May the new framework will not support windows XP but we would have used this for long time. </p>
+
+<h3>ANSWER 3 - TYPES OF ESSENTIAL DIFFICULTIES</h3>
+<p>
+</p>
+
+
+- **Complexity** :
+Nowadays the software systems became more complex because many people started using it and also these systems became more powerful. Very big software systems actually have lot of states and became more complex. In software engineering abstraction is very difficult because every software will have its own modules. So each time we develop a software we must develop the modules according to that product’s requirements. For example a banking application is very much different from a health care application. So we cannot create abstractions. This may cause some problem such as product flaws, delays etc. </p>
+
+- **Conformity** :
+Anything may happen in a company or during software development. For example let us consider a company that produces multiple softwares to its clients. The CEO of the company may change the rules of the company, which may affect our development process. Integrating new software with the existing old system (legacy system) becomes difficult sometimes. From the lecture we can clearly know that there is no plan for this change. The changes can happen any time and we must face it once it happens.
+
+- **Changeability** :
+Customers request for may changes to the software developers because their requirements change frequently. More than manufacturing a software product, pressure to change it is greater for the software team. For example let us consider a health care system. The software would have been completely built. After the review the customer may request multiple changes which may make our software developers to completely remodel the system. Customers actually do not know when to place the change request. It will become difficult for the software team if the changes are made during later stages. In other fields this change is not easy. Consider a building built in a downtown by XYZ. company. The customer cannot make big changes if the building is built because it will incur lot of costs. But in software systems customers ask us to change very easily. 
+
+
+- **Invisibility**
+When the requirement is given, it is very difficult to imagine the outcome of the software by the software developer. It is important that software developer should understand the problem. There are some UML diagrams which will help the software developer to visualize  the software. There are mainly 13 different types of diagrams used. Even though we have all these diagrams, it is still difficult for the developer to visualize the software. It is very difficult to state the problems using these diagrams but some kind of visualization is given by these diagrams. For example let us consider an software for a restaurant. First we must gather all requirements from customer and we must try to visualize the outcome of the software. Generally before coding, the software team first design all these diagrams and try to visualize the software.. It is very important because if the software developer does not understand the problem properly then the resultant software will be completely different from that of customer needs.
