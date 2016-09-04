@@ -47,4 +47,17 @@ When the requirement is given, it is very difficult to imagine the outcome of th
 <h3>ANSWER 4 - WHY NO SILVER BULLET?</h3>
 <p>Brook defines silver bullet as “A single technique or technology that by itself can deliver one order-of magnitude improvement to some aspect of software development” (Lecture). From the definition we can understand that silver bullet is a something that can improve the software system atleast by one order of magnitude. Even a small improvement is considered to be huge. He feels that there is no single technology that can improve the productivity of the software system. According to him there is no magical cure for the problems faced during manufacturing a software product. That is why he says that there is no silver bullet. </p>
 
+### ANSWER 5 - DIFFERENCE BETWEEN SOFTWARE ENGINEERING AND COMPUTER SCIENCE?
+Software engineers share a similar relationship with Computer Scientists as what a chemical engineer shares with a chemist. Let’s take an example on the Chemistry side of things.  The chemist is involved in a lot of research work to see if he can convert salt water to potentially drinkable water. This is a sort of an invention. Once this technique becomes successful, his part of the job is done. It is at this point, our chemical engineer comes into picture. A chemical engineer would then take this technique to apply it to salt water to manufacture “potentially shippable and viable” product. He has to consider various factors such as the following:
+- **Scalability** – A chemical engineer is supposed to manufacture tons of gallons of drinkable water which should then be bottled and shipped to large metropolitan and cosmopolitan cities.  So, he is supposed to consider the quantity of water that needs to be collected from the salty water bodies and then scale it accordingly.
+- **Budget** – A chemical engineer needs to look at the budget and then decide upon the costs incurred in processing the salt water and all the other process that’s involved in the conversion of salt water into drinkable water.
+- **Demand and Supply** – A chemical engineer would look into the demand and supply ratio and produce drinkable water that’s actually needed by the people not overshooting the given budget.
+With this example, we can get better insights at the relationship shared between software engineers (software engineering) and computer scientists (computer science).  Computer scientists would develop complex algorithms to solve a particular problem and Software engineer would pick up things that are developed by computer scientists to further develop a “potentially shippable, scalable” product.  As defined by __Daniel M. Berry__,
+_“Software Engineering is that form of engineering that applies –_ 
+* _A systematic, disciplined, quantifiable approach,_
+* _The principles of computer science, design, engineering, management, mathematics, and other disciplines.._
+_to creating, developing, operating, and maintaining cost-effective, reliably correct, high-quality solutions to software problems."_
+
+
+
 
