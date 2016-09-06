@@ -5,7 +5,7 @@ Submitted by <br>
 |----------| --------|----------|
 |AVINASH RATNAVEL MAHARAJ |       RATNAVEL      |    107143926    |
 |CHIRAG                   |       KAMAT         |    107164851    |
-|SHAM PRASAD              |       PS            |                 |
+|SHAM PRASAD              |       PS            |    106595940    |
 |PRATIMA                 |       SHERKANE      |    107162787    |
 <h3>ANSWER 1  -  ESSENTIAL DIFFICULTIES</h3>
 <p align="justify">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAccording to Brooks, essential difficulties are difficulties that occur because of inherent or intrinsic nature of the software.
@@ -14,7 +14,7 @@ Brooks states that
 >“The essence of a software entity is a construct of interlocking concepts: data sets, relationships among data items, algorithms, and invocations of functions. This essence is abstract in that such a conceptual construct is the same under many different representations. It is nonetheless highly precise and richly detailed.” 
 
 <p align="justify">
-(Definition from No Silver bullet article).  According to brooks, 80% of difficulties in software systems arise due to Essential 
+(Definition from No Silver bullet article).  According to Brooks, 80% of difficulties in software systems arise due to Essential 
 difficulties. From the article “No Silver Bullet” , we can understand that software systems are inherently complex and have lot of 
 requirements and lot of constraints. So these inherent behaviours of the software systems produce many difficulties for making and
 maintaining software. Let us consider an example of a Health Care System. The software team would have developed the software and would
