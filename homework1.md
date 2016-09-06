@@ -53,8 +53,8 @@ Software engineers share a similar relationship with Computer Scientists as what
 - **Demand and Supply** – A chemical engineer would look into the demand and supply ratio and produce drinkable water that’s actually needed by the people not overshooting the given budget.
 With this example, we can get better insights at the relationship shared between software engineers (software engineering) and computer scientists (computer science).  Computer scientists would develop complex algorithms to solve a particular problem and Software engineer would pick up things that are developed by computer scientists to further develop a “potentially shippable, scalable” product.  As defined by __Daniel M. Berry__,
 _“Software Engineering is that form of engineering that applies –_ 
-* _A systematic, disciplined, quantifiable approach,_
-* _The principles of computer science, design, engineering, management, mathematics, and other disciplines.._
+  * _A systematic, disciplined, quantifiable approach,_*
+  * _The principles of computer science, design, engineering, management, mathematics, and other disciplines.._
 _to creating, developing, operating, and maintaining cost-effective, reliably correct, high-quality solutions to software problems."_
 
 ### ANSWER 6 - ABSTRACTIONS, CONVERSATIONS, SPECIFICATION, TRANSLATION AND ITERATION
