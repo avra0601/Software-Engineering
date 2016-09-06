@@ -5,7 +5,7 @@ Submitted by <br>
 |----------| --------|----------|
 |AVINASH RATNAVEL MAHARAJ |       RATNAVEL      |    107143926    |
 |CHIRAG                   |       KAMAT         |    107164851    |
-|SHAM PRASAD              |       PS            |                 |
+|SHAM PRASAD              |       PS            |    106595940    |
 |PRATHIMA                 |       SHERKANE      |    107162787    |
 <h3>ANSWER 1  -  ESSENTIAL DIFFICULTIES</h3>
 <p align="justify">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAccording to Brooks, essential difficulties are difficulties that occur because of inherent or intrinsic nature of the software.
