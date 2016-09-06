@@ -86,7 +86,7 @@ Software engineering involves translation at every stage. The concept of a softw
 
 A project works best when done iteratively; when the application/project is developed step by step. The clients’ needs keep changing, new elements need to be added, and problems need to be rectified. Hence we need to iteratively incorporate them by making modifications to designs and adding new functionalities instead of waiting till the very end of the project. A new version of the software is produced in each cycle of the model. The advantages of taking the iterative approach is: Having a much better end product since the defects are detected and rectified at an earlier stage, more attention is given to design and development than documentation in earlier stages. This phase works best when the project is big and major requirements are well defined. 
 
-**References**
+### **References**
 
 1. Philosophe, "Requirements And Specifications"
 
