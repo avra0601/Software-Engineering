@@ -6,7 +6,7 @@ Submitted by <br>
 |AVINASH RATNAVEL MAHARAJ |       RATNAVEL      |    107143926    |
 |CHIRAG                   |       KAMAT         |    107164851    |
 |SHAM PRASAD              |       PS            |    106595940    |
-|PRATIMA                 |       SHERKANE      |    107162787    |
+|PRATIMA                  |       SHERKANE      |    107162787    |
 <h3>ANSWER 1  -  ESSENTIAL DIFFICULTIES</h3>
 <p align="justify">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAccording to Brooks, essential difficulties are difficulties that occur because of inherent or intrinsic nature of the software.
 Brooks states that 
@@ -71,7 +71,7 @@ Conversations play very important role in delivering a successful product. It in
 
 <p>Requirements and Specifications - both go hand in hand.</p>
 
-**"Requirements Define Necessary Objectives (‘The What’) and Specifications Define How to Meet The Objectives (‘The How’)"** [1] 
+**"Requirements Define Necessary Objectives (‘The What’) and Specifications Define How to Meet The Objectives (‘The How’)"** <sup>[1]</sup> 
  
 As it is rightly said, establishing right requirements and specification is the first and one of the most important steps in software engineering. It is very important that we understand what has been specified already and build a project plan as best as we can do, as this lays a solid foundation to build a project. Not establishing them right might lead to problems that surface later in the development cycle causing more money and time to be spent in fixing the problems.
 It is true that we might not have a clear picture of all the requirements and specifications at the start of the project and various requirements might evolve as the project progresses. That said, we must have a plan in place to handle new changes, overcome the challenges faced and incorporate solutions when necessary – in short facilitate incremental development.
@@ -86,6 +86,9 @@ Software engineering involves translation at every stage. The concept of a softw
 
 A project works best when done iteratively; when the application/project is developed step by step. The clients’ needs keep changing, new elements need to be added, and problems need to be rectified. Hence we need to iteratively incorporate them by making modifications to designs and adding new functionalities instead of waiting till the very end of the project. A new version of the software is produced in each cycle of the model. The advantages of taking the iterative approach is: Having a much better end product since the defects are detected and rectified at an earlier stage, more attention is given to design and development than documentation in earlier stages. This phase works best when the project is big and major requirements are well defined. 
 
+**References**
+
+1. Philosophe, "Requirements And Specifications"
 
 
 
