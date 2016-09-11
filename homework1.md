@@ -1,12 +1,12 @@
 <p align=center><b>HOMEWORK 1</b></p>
 Submitted by <br>
 
-|First Name|Last Name|Student ID|
-|----------| --------|----------|
-|AVINASH RATNAVEL MAHARAJ |       RATNAVEL      |    107143926    |
-|CHIRAG                   |       KAMAT         |    107164851    |
-|SHAM PRASAD              |       PS            |    106595940    |
-|PRATIMA                  |       SHERKANE      |    107162787    |
+|First Name|Last Name|
+|----------| --------|
+|AVINASH RATNAVEL MAHARAJ |       RATNAVEL      |
+|CHIRAG                   |       KAMAT         |
+|SHAM PRASAD              |       PS            |
+|PRATIMA                  |       SHERKANE      |
 <h3>ANSWER 1  -  ESSENTIAL DIFFICULTIES</h3>
 <p align="justify">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAccording to Brooks, essential difficulties are difficulties that occur because of inherent or intrinsic nature of the software.
 Brooks states that 
